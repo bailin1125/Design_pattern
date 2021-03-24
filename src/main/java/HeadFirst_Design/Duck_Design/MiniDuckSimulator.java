@@ -22,5 +22,6 @@ public class MiniDuckSimulator {
         model.displayonDuck();
         model.setFlyBehavior(new FlywithWings());
         model.perfomFly();
+        System.out.println("测试完成！");
     }
 }
