@@ -2,6 +2,9 @@ package HeadFirst_Design.Duck_Design;
 
 import HeadFirst_Design.Duck_Design.Behavior.FlywithWings;
 
+/**
+ * 策略模式
+ */
 public class MiniDuckSimulator {
     public static void main(String[] args) {
         /**

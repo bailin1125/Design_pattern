@@ -5,6 +5,7 @@ import java.util.Observer;
 
 /**
  * 看看前面的设计得威力
+ * 观察者模式
  */
 public class WeatherStation {
     public static void main(String[] args) {
