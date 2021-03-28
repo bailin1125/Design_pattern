@@ -2,6 +2,7 @@ package HeadFirst_Design.HomeTheaterFacade;
 
 /**
  * 装了所有的家电，同时也是启动类
+ * 外观模式
  */
 public class Application {
     public static void main(String[] args) {
